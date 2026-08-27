@@ -1,2 +1,3 @@
 # git_test
-Test Repository for Odin Project Exercises
+
+Test Repository for Dani Hung Odin exercises
